@@ -17,4 +17,4 @@ shasum -a 256 -c Wink.dmg.sha256        # Wink.dmg: OK
 spctl -a -vv /Applications/Wink.app     # accepted, source=Notarized Developer ID
 ```
 
-**Website:** https://wink-website-livid.vercel.app
+**Website:** https://wink.minnebo.ai
